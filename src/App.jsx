@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import Users from './users'
+import Users from './Users'
 import CreateUser from './CreateUser'
 import Navbar from "./Navbar";
 import 'ldrs/pulsar'
